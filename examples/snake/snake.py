@@ -1,3 +1,4 @@
+import pgzrun
 import random
 from enum import Enum
 from collections import deque
@@ -254,3 +255,4 @@ def draw():
 
 place_apple()
 start()
+pgzrun.go()

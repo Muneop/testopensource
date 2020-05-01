@@ -5,7 +5,7 @@ from itertools import tee
 from math import sin, floor
 WIDTH = 800
 HEIGHT = 400
-
+#뭐요 일단 추가하고 보는거지
 GRAVITY = 5
 TRAIL_LENGTH = 500
 WIND_SCALE = 8
